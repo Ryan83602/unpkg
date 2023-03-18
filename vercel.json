@@ -1,0 +1,7 @@
+{
+  "name": "Unpkg",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://unpkg.com/$1"}
+  ]
+}
